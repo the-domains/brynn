@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BRYNN]]></title>
         <description><![CDATA[BRYNN]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brynn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 21:16:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 21:24:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brynn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c9a4e83-1d72-4d2b-9c2c-ce6a2c7fea96.jpg">]]></description>
+            <link>https://thegrid.ai/brynn/16dda073-ca10-4368-91d9-57219d2f2089/index.html</link>
+            <guid isPermaLink="false">16dda073-ca10-4368-91d9-57219d2f2089</guid>
+            <pubDate>Fri, 26 Feb 2016 21:22:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/141e5f34-920d-4213-a577-971cae45a8c2.jpg">]]></description>
-            <link>undefined6710e0c7-c021-48e5-be95-225efe3b6121/index.html</link>
+            <link>https://thegrid.ai/brynn/6710e0c7-c021-48e5-be95-225efe3b6121/index.html</link>
             <guid isPermaLink="false">6710e0c7-c021-48e5-be95-225efe3b6121</guid>
             <pubDate>Fri, 26 Feb 2016 21:14:19 GMT</pubDate>
         </item>
