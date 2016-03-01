@@ -1,7 +1,7 @@
 name: BRYNN
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.5163517666514963
+typography_spectrum: 0.50052
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#c99560'
     - '#506782'
     - '#6e464b'
-  brandStrength: 0
-  lightness: 0.8923425667453557
-  saturation: 0.6980878249742091
-  rhythmicContrast: 0.16123551200143993
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
